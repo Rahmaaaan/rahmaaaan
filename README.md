@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rahmaaaan.rahmaaaan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aqueel ur Rahman+Khan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aqueel+ur+Rahman+Khan!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
@@ -14,10 +14,10 @@
  
  🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
  </div>
  
 <div align="center"> 
@@ -64,6 +64,7 @@
 </div>
 
 <br/><br/>
+
 <hr/>
 
 <h3 align="center">
@@ -71,4 +72,3 @@
 </h3>
 
 <br/>
-
