@@ -59,7 +59,7 @@
   <img width=500 src="https://streak-stats.demolab.com/?user=rahmaaaan&theme=react" alt="streak stats"/>
   <br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=rahmaaaan&show_icons=true&theme=react" alt="github status" />
-  <br/>  <br/>
+  <br/>
    <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaaaan&layout=compact&theme=react" alt="top langs" />
 </div>
 
