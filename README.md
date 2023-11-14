@@ -56,8 +56,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-rahmaaaan.vercel.app/?user=rahmaaaan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-rahmaaaan.vercel.app/api?username=rahmaaaan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github status" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=rahmaaaan&theme=react" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rahmaaaan&show_icons=true&theme=react" alt="github status" />
   <br/>
    <img width=325 align="center" src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=rahmaaaan&layout=compact" alt="top langs" />
 </div>
@@ -71,3 +71,4 @@
 </h3>
 
 <br/>
+
