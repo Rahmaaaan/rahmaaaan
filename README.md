@@ -14,8 +14,6 @@
 
 💬 Ask me about **Node.js, React, MongoDB... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
@@ -59,7 +57,7 @@
   <img width=390 src="https://streak-stats.demolab.com/?user=rahmaaaan&theme=react" alt="streak stats"/>
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=rahmaaaan&show_icons=true&theme=react" alt="github status" />
-  <br/>
+  <br/>  <br/>
    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaaaan&layout=compact&theme=react" alt="top langs" />
 </div>
 
