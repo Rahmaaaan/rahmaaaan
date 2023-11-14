@@ -60,7 +60,7 @@
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=rahmaaaan&show_icons=true&theme=react" alt="github status" />
   <br/>  <br/>
-   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaaaan&layout=compact&theme=react" alt="top langs" />
+   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaaaan&layout=compact&theme=react" alt="top langs" />
 </div>
 
 <br/><br/>
