@@ -56,11 +56,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=500 src="https://streak-stats.demolab.com/?user=rahmaaaan&theme=react" alt="streak stats"/>
+  <img width=450 src="https://streak-stats.demolab.com/?user=rahmaaaan&theme=react" alt="streak stats"/>
   <br/>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=rahmaaaan&show_icons=true&theme=react" alt="github status" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=rahmaaaan&show_icons=true&theme=react" alt="github status" />
   <br/>
-   <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaaaan&layout=compact&theme=react" alt="top langs" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaaaan&layout=compact&theme=react" alt="top langs" />
 </div>
 
 <br/><br/>
