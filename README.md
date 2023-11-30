@@ -41,7 +41,11 @@
 </div>
 
 <br/>
+
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div align=center>
   <img width=400 src="https://streak-stats.demolab.com/?user=rahmaaaan&theme=react" alt="streak stats"/>
   <br/>
@@ -50,10 +54,9 @@
   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaaaan&layout=compact&theme=react" alt="top langs" />
 </div>
 
-<hr/>
+<br/><br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -62,7 +65,6 @@
   
   <br/><br/><br/>
 </div>
-<br/><br/>
 
 <hr/>
 
