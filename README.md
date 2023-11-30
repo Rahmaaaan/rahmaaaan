@@ -39,7 +39,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,js,jquery,react,nodejs,express,django,mongodb,postgres"/><br>
     <img src="https://skillicons.dev/icons?i=vscode,vite,vercel,git,github" /><br>
 </div>
-
 <br/>
 
 <hr/>
