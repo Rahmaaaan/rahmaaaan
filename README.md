@@ -42,19 +42,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rahmaaaan/Rahmaaaan/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
   <img width=400 src="https://streak-stats.demolab.com/?user=rahmaaaan&theme=react" alt="streak stats"/>
   <br/>
@@ -63,6 +50,18 @@
   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaaaan&layout=compact&theme=react" alt="top langs" />
 </div>
 
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rahmaaaan/Rahmaaaan/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <br/><br/>
 
 <hr/>
