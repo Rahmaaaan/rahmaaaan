@@ -1,4 +1,5 @@
 <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pictures-3e80f.appspot.com/o/GitHub%2FGithub%20Homepage%202.gif?alt=media&token=43b75700-3ff9-4805-af40-f24f0a7a9ab6"/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rahmaaaan.rahmaaaan" />
 
 <h1 align="center">
@@ -10,14 +11,14 @@
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently learning **NextJS**
+
+🌱 I’m currently learning **NextJS**
 
 💬 Ask me about **Node.js, React, MongoDB... or anything**
 
  </div>
- 
-<div align="center"> 
+
+<div align="center">
   <a href="mailto:therahman14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -25,12 +26,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://portfolio-nine-silk-97.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
  <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
